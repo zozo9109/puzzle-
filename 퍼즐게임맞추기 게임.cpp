@@ -59,16 +59,6 @@ for (int i = 0; i < 3; i++) {
 
 
 
-	
-Swap(boardX,)
-
-
-
-					Swap(board[i][j], blank);
-
-					SwapX(boardX[i][j], boardX[i + 1][j]);
-
-					SwapY(boardY[i][j], boardY[i + 1][j]);
 
 
 
